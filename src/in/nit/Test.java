@@ -4,15 +4,13 @@ public class Test {
 
 	private int sid;
 	private String sname;
-	
+	private double sfee;
 
 	public String getSname() {
 		return sname;
 	}
 
-	public void setSname(String sname) {
-		this.sname = sname;
-	}
+	
 
 	public int getSid() {
 		return sid;
