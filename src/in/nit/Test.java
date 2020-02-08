@@ -4,8 +4,7 @@ public class Test {
 
 	private int sid;
 	private String sname;
-	private double sfee;
-
+	private String abc;
 	public String getSname() {
 		return sname;
 	}
